@@ -1,5 +1,5 @@
 # nginx-upstream-server-stress-test
-
+```
 root@takaaki-jetson:/etc/nginx/conf.d# pwd
 /etc/nginx/conf.d
 
@@ -13,3 +13,4 @@ drwxr-xr-x 3 root root  4096  ../
 root@takaaki-jetson:/etc/nginx/conf.d# nginx -t
 nginx: the configuration file /etc/nginx/nginx.conf syntax is ok
 nginx: configuration file /etc/nginx/nginx.conf test is successful
+```
